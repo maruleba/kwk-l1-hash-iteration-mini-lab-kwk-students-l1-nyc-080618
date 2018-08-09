@@ -1,11 +1,8 @@
-
 def create_olympics_hash
-  # Implement this method so that it returns a hash with the data provided on README.md
- 
-olympics #Sydney => 2000
-olympics #Athens => 2004
-olympics #Beijing => 2008
-olympics #London => 2012
+# olympics #Sydney => "2000"
+# olympics #Athens => 2004
+# olympics #Beijing => 2008
+# olympics #London => 2012
 end
 create_olympics_hash
 
