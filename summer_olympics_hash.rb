@@ -4,7 +4,7 @@ def create_olympics_hash
  
 olympics ["Sydney"] : 2000
 olympics ["Athens"] : 2004
-olympics ["Beijing"] : 2008
+olympics ["Beijing"]: 2008
 olympics ["London"] : 2012
 
 summer_olympics |city|
