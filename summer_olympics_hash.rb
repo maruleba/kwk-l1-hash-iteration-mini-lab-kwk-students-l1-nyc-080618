@@ -8,8 +8,7 @@ olympics :Beijing: 2008
 olympics :London : 2012
 end 
 create_olympics_hash
-summer_olympics |city|
-summer_olympics do city {1,2,3,4}
+
 
 
  puts "Sydney"  2000
