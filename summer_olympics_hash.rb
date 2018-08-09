@@ -6,9 +6,8 @@ olympics :Sydney : 2000
 olympics :Athens : 2004
 olympics :Beijing: 2008
 olympics :London : 2012
-
+end
 create_olympics_hash
-end 
 
 def add_a_key_value_pair
   summer_olympics 
