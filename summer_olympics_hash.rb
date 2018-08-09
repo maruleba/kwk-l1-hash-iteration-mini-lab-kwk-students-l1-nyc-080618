@@ -9,10 +9,10 @@ olympics ["London"] : 2012
 
 summer_olympics |city|
 summer_olympics do city {1,2,3,4}
- puts "Sydney 2000"
- puts "Athens 2004"
- puts "Beijings 2008"
- puts "London 2012"
+ puts "Sydney"  2000
+ puts "Athens"  2004
+ puts "Beijing" 2008 
+ puts "London"  2012
 end
 
 end
