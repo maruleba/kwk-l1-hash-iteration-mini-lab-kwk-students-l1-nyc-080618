@@ -10,16 +10,14 @@ end
 create_olympics_hash
 
 
-
- puts "Sydney"  2000
- puts "Athens"  2004
- puts "Beijing" 2008 
- puts "London"  2012
 end
 
 end
 
 def add_a_key_value_pair
+  create_olympics_hash
+  new_olympics = 
+  
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
 
 
