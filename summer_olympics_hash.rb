@@ -11,7 +11,11 @@ create_olympics_hash
 end 
 
 def add_a_key_value_pair
-  
+  summer_olympics 
+  olympics :Sydney : 2000
+  olympics :Athens : 2004
+  olympics :Beijing: 2008
+  olympics :
   create_olympics_hash
   new_olympics = 
   
