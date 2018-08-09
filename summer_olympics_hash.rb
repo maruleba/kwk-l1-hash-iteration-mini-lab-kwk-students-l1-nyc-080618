@@ -2,10 +2,10 @@
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
  
-# city ["Sydney"], : 2000
-# city ["Athens"] : 2004
-# city ["Beijing"] : 2008
-# city ["London"] : 2012
+olympics ["Sydney"], : 2000
+olympics ["Athens"] : 2004
+olympics ["Beijing"] : 2008
+olympics ["London"] : 2012
 
 summer_olympics |city|
 summer_olympics do city {1,2,3,4}
